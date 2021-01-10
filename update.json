@@ -1,6 +1,11 @@
 {
-   "version":"6896",
-   "versionName":"1.9.9",
-   "gldl_version":"1.15.2",
-   "ytdl_version":"2020.10.29"
+   "version":"200",
+   "versionName":"2.0.0",
+   "source":"github",
+   "gldl_version":"1.16.2",
+   "ytdl_version":"2021.01.08",
+   "gldl_url":"https://xq4.github.io/gallery_dl.zip",
+   "ytdl_url":"https://xq4.github.io/youtube_dl.zip",
+   "direct":"null",
+   "content":"null"
 }
