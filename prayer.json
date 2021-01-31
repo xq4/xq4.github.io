@@ -1,310 +1,225 @@
 {
-  "code":200,
-  "status":"OK",
-  "data":[
+  "code": 200,
+  "status": "OK",
+  "data": [
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:21",
-        "Asr":"03:25",
-        "Maghrib":"05:46",
-        "Isha":"07:00"
+      "timings": {
+        "Fajr": "05:30",
+        "Dhuhr": "12:25",
+        "Asr": "03:35",
+        "Maghrib": "05:58",
+        "Isha": "07:10"
       },
-      "date":{
-        "gregorian":{
-          "date":"14-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "31-01-2021"
         },
-        "hijri":{
-          "date":"30-05-1442"
+        "hijri": {
+          "date": "17-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:21",
-        "Asr":"03:25",
-        "Maghrib":"05:46",
-        "Isha":"07:01"
+      "timings": {
+        "Fajr": "05:30",
+        "Dhuhr": "12:25",
+        "Asr": "03:36",
+        "Maghrib": "05:58",
+        "Isha": "07:11"
       },
-      "date":{
-        "gregorian":{
-          "date":"15-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "1-02-2021"
         },
-        "hijri":{
-          "date":"01-06-1442"
+        "hijri": {
+          "date": "18-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:22",
-        "Asr":"03:26",
-        "Maghrib":"05:47",
-        "Isha":"07:01"
+      "timings": {
+        "Fajr": "05:30",
+        "Dhuhr": "12:26",
+        "Asr": "03:36",
+        "Maghrib": "05:59",
+        "Isha": "07:11"
       },
-      "date":{
-        "gregorian":{
-          "date":"16-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "2-02-2021"
         },
-        "hijri":{
-          "date":"02-06-1442"
+        "hijri": {
+          "date": "19-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:22",
-        "Asr":"03:27",
-        "Maghrib":"05:48",
-        "Isha":"07:02"
+      "timings": {
+        "Fajr": "05:29",
+        "Dhuhr": "12:26",
+        "Asr": "03:37",
+        "Maghrib": "06:00",
+        "Isha": "07:12"
       },
-      "date":{
-        "gregorian":{
-          "date":"17-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "3-02-2021"
         },
-        "hijri":{
-          "date":"03-06-1442"
+        "hijri": {
+          "date": "20-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:22",
-        "Asr":"03:27",
-        "Maghrib":"05:48",
-        "Isha":"07:03"
+      "timings": {
+        "Fajr": "05:29",
+        "Dhuhr": "12:26",
+        "Asr": "03:37",
+        "Maghrib": "06:00",
+        "Isha": "07:13"
       },
-      "date":{
-        "gregorian":{
-          "date":"18-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "4-02-2021"
         },
-        "hijri":{
-          "date":"04-06-1442"
+        "hijri": {
+          "date": "21-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:23",
-        "Asr":"03:28",
-        "Maghrib":"05:49",
-        "Isha":"07:03"
+      "timings": {
+        "Fajr": "05:29",
+        "Dhuhr": "12:26",
+        "Asr": "03:38",
+        "Maghrib": "06:01",
+        "Isha": "07:13"
       },
-      "date":{
-        "gregorian":{
-          "date":"19-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "5-02-2021"
         },
-        "hijri":{
-          "date":"05-06-1442"
+        "hijri": {
+          "date": "22-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:23",
-        "Asr":"03:29",
-        "Maghrib":"05:50",
-        "Isha":"07:04"
+      "timings": {
+        "Fajr": "05:28",
+        "Dhuhr": "12:26",
+        "Asr": "03:38",
+        "Maghrib": "06:02",
+        "Isha": "07:14"
       },
-      "date":{
-        "gregorian":{
-          "date":"20-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "6-02-2021"
         },
-        "hijri":{
-          "date":"06-06-1442"
+        "hijri": {
+          "date": "23-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:23",
-        "Asr":"03:29",
-        "Maghrib":"05:51",
-        "Isha":"07:04"
+      "timings": {
+        "Fajr": "05:28",
+        "Dhuhr": "12:26",
+        "Asr": "03:39",
+        "Maghrib": "06:02",
+        "Isha": "07:14"
       },
-      "date":{
-        "gregorian":{
-          "date":"21-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "7-02-2021"
         },
-        "hijri":{
-          "date":"07-06-1442"
+        "hijri": {
+          "date": "24-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:23",
-        "Asr":"03:30",
-        "Maghrib":"05:51",
-        "Isha":"07:05"
+      "timings": {
+        "Fajr": "05:27",
+        "Dhuhr": "12:26",
+        "Asr": "03:39",
+        "Maghrib": "06:03",
+        "Isha": "07:15"
       },
-      "date":{
-        "gregorian":{
-          "date":"22-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "8-02-2021"
         },
-        "hijri":{
-          "date":"08-06-1442"
+        "hijri": {
+          "date": "25-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:24",
-        "Asr":"03:30",
-        "Maghrib":"05:52",
-        "Isha":"07:06"
+      "timings": {
+        "Fajr": "05:27",
+        "Dhuhr": "12:26",
+        "Asr": "03:39",
+        "Maghrib": "06:04",
+        "Isha": "07:15"
       },
-      "date":{
-        "gregorian":{
-          "date":"23-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "9-02-2021"
         },
-        "hijri":{
-          "date":"09-06-1442"
+        "hijri": {
+          "date": "26-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:32",
-        "Dhuhr":"12:24",
-        "Asr":"03:31",
-        "Maghrib":"05:53",
-        "Isha":"07:06"
+      "timings": {
+        "Fajr": "05:26",
+        "Dhuhr": "12:26",
+        "Asr": "03:40",
+        "Maghrib": "06:04",
+        "Isha": "07:16"
       },
-      "date":{
-        "gregorian":{
-          "date":"24-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "10-02-2021"
         },
-        "hijri":{
-          "date":"10-06-1442"
+        "hijri": {
+          "date": "27-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:31",
-        "Dhuhr":"12:24",
-        "Asr":"03:32",
-        "Maghrib":"05:54",
-        "Isha":"07:07"
+      "timings": {
+        "Fajr": "05:26",
+        "Dhuhr": "12:26",
+        "Asr": "03:40",
+        "Maghrib": "06:05",
+        "Isha": "07:16"
       },
-      "date":{
-        "gregorian":{
-          "date":"25-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "11-02-2021"
         },
-        "hijri":{
-          "date":"11-06-1442"
+        "hijri": {
+          "date": "28-06-1442"
         }
       }
     },
     {
-      "timings":{
-        "Fajr":"05:31",
-        "Dhuhr":"12:24",
-        "Asr":"03:32",
-        "Maghrib":"05:54",
-        "Isha":"07:07"
+      "timings": {
+        "Fajr": "05:25",
+        "Dhuhr": "12:26",
+        "Asr": "03:41",
+        "Maghrib": "06:05",
+        "Isha": "07:17"
       },
-      "date":{
-        "gregorian":{
-          "date":"26-01-2021"
+      "date": {
+        "gregorian": {
+          "date": "12-02-2021"
         },
-        "hijri":{
-          "date":"12-06-1442"
-        }
-      }
-    },
-    {
-      "timings":{
-        "Fajr":"05:31",
-        "Dhuhr":"12:25",
-        "Asr":"03:33",
-        "Maghrib":"05:55",
-        "Isha":"07:08"
-      },
-      "date":{
-        "gregorian":{
-          "date":"27-01-2021"
-        },
-        "hijri":{
-          "date":"13-06-1442"
-        }
-      }
-    },
-    {
-      "timings":{
-        "Fajr":"05:31",
-        "Dhuhr":"12:25",
-        "Asr":"03:33",
-        "Maghrib":"05:56",
-        "Isha":"07:09"
-      },
-      "date":{
-        "gregorian":{
-          "date":"28-01-2021"
-        },
-        "hijri":{
-          "date":"14-06-1442"
-        }
-      }
-    },
-    {
-      "timings":{
-        "Fajr":"05:31",
-        "Dhuhr":"12:25",
-        "Asr":"03:34",
-        "Maghrib":"05:56",
-        "Isha":"07:09"
-      },
-      "date":{
-        "gregorian":{
-          "date":"29-01-2021"
-        },
-        "hijri":{
-          "date":"15-06-1442"
-        }
-      }
-    },
-    {
-      "timings":{
-        "Fajr":"05:30",
-        "Dhuhr":"12:25",
-        "Asr":"03:35",
-        "Maghrib":"05:57",
-        "Isha":"07:10"
-      },
-      "date":{
-        "gregorian":{
-          "date":"30-01-2021"
-        },
-        "hijri":{
-          "date":"16-06-1442"
-        }
-      }
-    },
-    {
-      "timings":{
-        "Fajr":"05:30",
-        "Dhuhr":"12:25",
-        "Asr":"03:35",
-        "Maghrib":"05:58",
-        "Isha":"07:10"
-      },
-      "date":{
-        "gregorian":{
-          "date":"31-01-2021"
-        },
-        "hijri":{
-          "date":"17-06-1442"
+        "hijri": {
+          "date": "29-06-1442"
         }
       }
     }
