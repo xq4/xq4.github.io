@@ -1,8 +1,8 @@
 {
-   "versionCode":"203",
-   "versionName":"2.0.3",
-   "gldl_version":"1.17.1",
-   "ytdl_version":"2021.04.01",
+   "versionCode":"204",
+   "versionName":"2.0.4",
+   "gldl_version":"1.17.2",
+   "ytdl_version":"2021.04.17",
    "gldl_url":"https://xq4.github.io/gallery_dl.zip",
    "ytdl_url":"https://xq4.github.io/youtube_dl.zip"
 }
