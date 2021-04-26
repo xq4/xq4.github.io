@@ -2,7 +2,7 @@
    "versionCode":"206",
    "versionName":"2.0.6",
    "gldl_version":"1.17.3",
+   "gldl_version_code":"1173",
    "ytdl_version":"2021.04.26",
-   "gldl_url":"https://xq4.github.io/gallery_dl.zip",
-   "ytdl_url":"https://xq4.github.io/youtube_dl.zip"
+   "ytdl_version_code":"20210426", "gldl_url":"https://xq4.github.io/gallery_dl.zip", "ytdl_url":"https://xq4.github.io/youtube_dl.zip"
 }
